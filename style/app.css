@@ -4,13 +4,14 @@ html, body {
   margin: 0px;
   padding: 0px;
 }
+
 html {
   box-sizing: border-box;
   font-family: Monaco, Verdana, sans, sans-serif;
 }
 
 body {
-  background: #f5f5f5;
+  background: #FFE545;
 }
 
 *, *:before, *:after {
@@ -29,6 +30,7 @@ body {
   border: none;
   box-shadow: 0.2px 1px 1px rgba(0,0,0,0.3);
   border-radius: 2px;
+  background: #fff ;
 }
   
 #output {  
@@ -40,19 +42,19 @@ body {
 #output li {
   text-align: left;
   padding: 10px;
-  background: #fff;
+  background: #FEFBAF;
   margin: 5px 0;
   box-shadow: 0.2px 0.5px 0.8px rgba(0,0,0,0.2);
   border-radius: 2px;
 }
 
 .code{
-  color: darkslateblue;
+  color: #026475;
   font-weight: bold;
 }
 
 .letter {
-  color: darkolivegreen;
+  color: #C2A34F;
   font-weight: bold;
 }
 
