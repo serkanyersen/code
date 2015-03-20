@@ -26,6 +26,9 @@ body {
   padding: 10px;
   font-size: 20px;
   width: 50%;
+  border: none;
+  box-shadow: 0.2px 1px 1px rgba(0,0,0,0.3);
+  border-radius: 2px;
 }
   
 #output {  
@@ -39,6 +42,8 @@ body {
   padding: 10px;
   background: #fff;
   margin: 5px 0;
+  box-shadow: 0.2px 0.5px 0.8px rgba(0,0,0,0.2);
+  border-radius: 2px;
 }
 
 .code{
